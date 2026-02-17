@@ -4,7 +4,7 @@ This project analyzes **customer retention and revenue decay patterns** using a 
 It focuses on understanding **early churn behavior**, identifying **revenue risks**, and translating analytical findings into **actionable business strategies**.
 
 📅 **Project Duration:** 10 - 16 February 2026 
-🎓 **Project Type:** Undergraduate Thesis Project  
+🎓 **Project Type:** Personal Project  
 🛠 **Tools:** Google Colab, Python, Pandas, Matplotlib, Seaborn  
 
 ---
